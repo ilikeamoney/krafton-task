@@ -1,0 +1,23 @@
+.wrap {
+    margin: 10px auto;
+    width: 900px;
+}
+
+.display-4, .lead, .btn-lg, .card-title, .card-text, .card-comment {
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .card-title {
+    color: blue;
+  }
+
+  .card-text {
+    font-size: 21px;
+  }
+
+  .card-comment {
+    font-size : 18px;
+    color: crimson;
+  }

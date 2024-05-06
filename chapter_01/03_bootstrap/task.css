@@ -1,0 +1,35 @@
+.wrap {
+    margin: 10px auto;
+    width: 900px;
+}
+
+.display-4, .lead, .btn-lg, .card-title, .card-text, .card-comment, .simple-comment, .article-url, .btn-primary {
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .card-title {
+    color: blue;
+  }
+
+  .card-text {
+    font-size: 21px;
+  }
+
+  .card-comment {
+    font-size : 18px;
+    color: crimson;
+  }
+
+  .simple-comment, .article-url {
+    font-size: 21px;
+  }
+
+  .form-wrap {
+    width: 500px;
+    padding: 30px;
+    margin: 10px auto;
+    border: 3px solid black;
+    border-radius: 4px;
+  }
